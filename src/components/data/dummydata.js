@@ -143,7 +143,7 @@ export const portfolio = [
 export const testimonials = [
   {
     id: 1,
-    text: "Success Is No Accident. It Is Hard Work, Perseverance, Learning, Studying, Sacrifice And Most Of All, Love Of What You Are Doing Or Learning To Do.",
+    text: "Success Is No Accident. It Is Hard Work, Perseverance, Learning, Studying, Sacrifice And Most Of All.",
     image: "./images/testimonials/team-1.png",
     name: "Mohamed Hilal",
     post: "React Developer",
