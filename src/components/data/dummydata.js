@@ -126,13 +126,6 @@ export const portfolio = [
     title: "Smart Watch",
   },
   {
-    id: 3,
-    cover: "../images/port/port3.jpg",
-    name: "To Envelop",
-    category: "development",
-    title: "LEO CARDS",
-  },
-  {
     id: 4,
     cover: "../images/port/port4.jpg",
     name: "PETIT NATURALS",
@@ -145,13 +138,6 @@ export const portfolio = [
     name: "Devine Pot",
     category: "design",
     title: "KRIFFLIG",
-  },
-  {
-    id: 6,
-    cover: "../images/port/port6.jpg",
-    name: "To Crack Snacks",
-    category: "development",
-    title: "JEFF'S SPOT",
   },
 ]
 export const testimonials = [
